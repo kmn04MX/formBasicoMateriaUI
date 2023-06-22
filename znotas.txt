@@ -1,0 +1,8 @@
+
+Se termino de hacer la validación del formulario 
+
+-librerias que se encargan de hacer validaciones por ejemplo las librerias
+    YUP  --> https://www.npmjs.com/package/yup
+    React Validate form --> https://react-hook-form.com
+
+
